@@ -2,7 +2,7 @@
 
 ## 1、RagBag的QuantumultX 配置包
 
-自用配置[RagBag]()
+自用配置[RagBag.conf](https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/RagBag/RagBag.conf)
 
 > 
 
