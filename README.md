@@ -12,7 +12,7 @@
 
 https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Script/RagBag_VIP.conf
 
-> [RagBag_VIP.conf]([QuantumultX/RagBag_VIP.conf at master · RagBagCN/QuantumultX (github.com)](https://github.com/RagBagCN/QuantumultX/blob/master/Script/RagBag_VIP.conf))文件，添加 .js 链接，并在 [ hostname = ]中添加域名解析
+> [RagBag_VIP.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Script/RagBag_VIP.conf))文件，添加 .js 链接，并在 [ hostname = ]中添加域名解析
 ## 3、收集的 QuantumultX 懒人配置
 
 #### 收集一些大佬的懒人包，也可以提取大佬的部分配置
