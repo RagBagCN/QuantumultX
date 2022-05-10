@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Script/RagBag_VIP.
 
 ## 5、收集的 QuantumultX 重写配置
 
-- [Cuttlefish 墨鱼]([Cuttlefish/Rewrite at master · ddgksf2013/Cuttlefish (github.com)](https://github.com/ddgksf2013/Cuttlefish/tree/master/Rewrite)) 
+- [Cuttlefish 墨鱼](https://github.com/ddgksf2013/Cuttlefish/tree/master/Rewrite)
 
   包含去广告重写、各种VIP解锁
 
