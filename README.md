@@ -1,32 +1,47 @@
-# 整理一些大佬的圈X配置
+# 整理-圈X配置
 
 ## 1、RagBag的QuantumultX 配置包
 
 自用配置[RagBag.conf](https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/RagBag/RagBag.conf)
 
-> 
+```
+https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Configuration/RagBag.conf
+```
 
-## 2、添加自己有用QuantumultX的VIP解锁
+## 2、远程重写
 
-以下VIP解锁配置只针对于RagBag自己的IOS使用
+### **说明：RagBag只提取对自己有用的远程重写**
 
-https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Script/RagBag_VIP.conf
+#### 2.1以下VIP解锁配置只针对于RagBag自己的IOS使用
 
-> [RagBag_VIP.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Script/RagBag_VIP.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
+```
+https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_VIP.conf
+```
+
+> [RagBag_VIP.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Rewrite/RagBag_VIP.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
+
+#### 2.2以下去广告配置只针对于RagBag自己的IOS使用
+
+```
+https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_Ads.conf
+```
+
+> [RagBag_Ads.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Rewrite/RagBag_Ads.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
+
 ## 3、收集的 QuantumultX 懒人配置
 
 #### 收集一些大佬的懒人包，也可以提取大佬的部分配置
 
-- ​	[Orz-3](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)
-- ​	[KOP-XIAO](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
-- ​	[DivineEngine 神机](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf)
-- ​	[erdongchanyo 耳东橙](https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/QuantumultX_EDC-Lazy.conf)
-- ​	[Cuttlefish 墨鱼](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Profile/QuantumultX.conf)
-- ​	[limbopro 毒奶](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)
-- ​	[Tartarus2014 烧烤哥](https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)
-- ​	[zwf234 奇心科技](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf)
-- ​	[w37fh 北纬37度的大飛 ](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)
-- ​	[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)
+- 	[Orz-3](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)
+- 	[KOP-XIAO](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
+- 	[DivineEngine 神机](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf)
+- 	[erdongchanyo 耳东橙](https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/QuantumultX_EDC-Lazy.conf)
+- 	[Cuttlefish 墨鱼](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Profile/QuantumultX.conf)
+- 	[limbopro 毒奶](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)
+- 	[Tartarus2014 烧烤哥](https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)
+- 	[zwf234 奇心科技](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf)
+- 	[w37fh 北纬37度的大飛 ](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)
+- 	[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)
 
 ## 4、收集的 QuantumultX 分流配置
 
@@ -36,18 +51,17 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Script/RagBag_VIP.
 
 ## 5、收集的 QuantumultX 重写配置
 
-- [Cuttlefish 墨鱼](https://github.com/ddgksf2013/Cuttlefish/tree/master/Rewrite)
+- **[Cuttlefish 墨鱼](https://github.com/ddgksf2013/Cuttlefish/tree/master/Rewrite)**
 
-  包含去广告重写、各种VIP解锁
+  **包含去广告重写、各种VIP解锁**
 
-- 
+## 6.说明
 
+**其他请看仓库中[备忘文件](https://github.com/RagBagCN/QuantumultX/blob/master/%E5%A4%87%E5%BF%98.md)**
 
-
-
-
-
+此仓库只针对自己所用，不一定更新
 
 ## 特别感谢（排名不分先后）
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules) [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master)
+**[@Cuttlefish 墨鱼](https://github.com/ddgksf2013/Cuttlefish)**[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules) [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master)
+
