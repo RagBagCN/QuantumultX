@@ -1,4 +1,4 @@
-******************
+/******************
 京东资产变动通知脚本
 更新时间: 2021-06-09 
 统计昨日京豆的变化情况，包括收入，支出，以及显示当前京豆数量,统计红包以及过期红包
@@ -8,7 +8,7 @@
 [task_local]
 #京东资产变动通知
 2 9 * * * jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
-******************
+******************/
 
 
 const $ = new Env('京东资产变动通知');
