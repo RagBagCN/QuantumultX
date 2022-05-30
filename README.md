@@ -57,9 +57,8 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_Ads
 
 ## 6.说明
 
-**其他请看仓库中[备忘文件](https://github.com/RagBagCN/QuantumultX/blob/master/%E5%A4%87%E5%BF%98.md)**
-
-此仓库只针对自己所用，不一定更新
+ **其他请看仓库中[备忘.md](https://github.com/RagBagCN/QuantumultX/blob/master/%E5%A4%87%E5%BF%98.md)**
+ **此仓库只针对自己所用，不一定更新**
 
 ## 特别感谢（排名不分先后）
 
