@@ -1,8 +1,8 @@
 #RagBag自用
 
-#HOST-SUFFIX,ragbag.one
-#HOST-SUFFIX,www.ragbag.one
-#HOST-SUFFIX,ragbag.ink
+HOST-SUFFIX,ragbag.one,DIRECT
+HOST-SUFFIX,www.ragbag.one,DIRECT
+#HOST-SUFFIX,ragbag.ink,DIRECT
 
-DOMAIN-SUFFIX,ragbag.one,DIRECT
-DOMAIN-SUFFIX,www.ragbag.one,DIRECT
+#DOMAIN-SUFFIX,ragbag.one,DIRECT
+#DOMAIN-SUFFIX,www.ragbag.one,DIRECT
