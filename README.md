@@ -25,6 +25,14 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_VIP
 ```
 https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_Ads.conf
 ```
+#### 2.3 屏蔽App的更新
+
+```
+https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/BlockUpdate.conf
+```
+
+
+
 
 > [RagBag_Ads.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Rewrite/RagBag_Ads.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
 
