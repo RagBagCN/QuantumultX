@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/BlockUpdat
 ## 5、收集的 QuantumultX 重写配置
 
 - **[Cuttlefish 墨鱼](https://github.com/ddgksf2013/)**
+- **[deezertidal](https://github.com/deezertidal/QuantumultX-Rewrite)**
 
   **包含去广告重写、各种VIP解锁**
 
