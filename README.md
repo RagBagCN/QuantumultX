@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Configuration/RagB
 https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_VIP.conf
 ```
 
-> [RagBag_VIP.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Rewrite/RagBag_VIP.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
+> [RagBag_VIP.conf](https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_VIP.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
 
 #### 2.2以下去广告配置只针对于RagBag自己的IOS使用
 
@@ -27,12 +27,12 @@ https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_Ads
 ```
 
 
-> [RagBag_Ads.conf](https://github.com/RagBagCN/QuantumultX/blob/master/Rewrite/RagBag_Ads.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
+> [RagBag_Ads.conf](https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/RagBag_Ads.conf)文件，添加 `.js` 链接，并在 [ hostname = ]中添加域名解析
 
 #### 2.3 屏蔽App的更新
 
 ```
-https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/BlockUpdate.conf
+https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/Block_Update.conf
 ```
 
 ## 3、收集的 QuantumultX 懒人配置
