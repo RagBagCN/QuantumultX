@@ -1,1 +1,1 @@
-    div.container.py-3.text-center {display: none! important}
+div.container.py-3.text-center {display: none! important}
