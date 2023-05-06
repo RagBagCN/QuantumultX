@@ -1,3 +1,1 @@
-div.container.py-3.text-center > a[href*="https://u.qushaia.cn/2a04"] {
-    display: none !important;
-}
+    div.container.py-3.text-center {display: none! important}
