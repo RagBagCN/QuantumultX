@@ -1,15 +1,5 @@
-const elementSelector = ".container-fluid.fixed-bottom";
-const injectedStyle = `
-  <style>
-    ${elementSelector} { display: none !important; }
-  </style>
-`;
+let html = $response.body;
+html = html.replace(/<div class="text-center py-3 container"[\s\S]*?<\/div>/, '');
+$done({ body: html });
 
-if ($response && $response.headers && $response.headers["content-type"].includes("text/html")) {
-  let body = $response.body;
-  body = body.replace(/(<\/head>)/i, `${injectedStyle}$1`);
-  $done({ body });
-} else {
-  $done({});
-}
 
