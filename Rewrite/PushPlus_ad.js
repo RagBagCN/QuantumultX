@@ -1,5 +1,6 @@
-let html = $response.body;
-html = html.replace(/<div class="text-center py-3 container"[\s\S]*?<\/div>/, '');
-$done({ body: html });
 
-
+var body = $response.body.replace(
+  /<head>/,
+  '<head><link rel="stylesheet" href="https://raw.githubusercontent.com/RagBagCN/QuantumultX/master/Rewrite/PushPlus_ad.ccs" type="text/css">'
+);
+$done({ body });
